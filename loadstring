@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/aquoric/Plot-Copy-TOwn/main/plot_copy%20(2).lua"),true))()
